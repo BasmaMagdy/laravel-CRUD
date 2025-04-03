@@ -16,11 +16,11 @@ created using laravel.
 
 **Technology Stack**
 
-Backend: PHP 8+, Laravel 10
-Frontend: Blade (HTML, CSS, Bootstrap), JavaScript
+Backend: PHP, Laravel 
+Frontend: HTML, CSS, Bootstrap
 Database: MySQL
 Version Control: Git & GitHub
-Server: Apache or Nginx
+Server: Apache
 
 **Run the Project**
 
