@@ -3,6 +3,7 @@ Is a trial to use the database through web interface
 created using laravel.
 
 #**Project Structure**
+
 /project-root  
 │── app/Http/Controllers/     # Controllers for handling requests  
 │── app/Models/               # Models representing database tables  
