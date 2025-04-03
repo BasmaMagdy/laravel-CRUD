@@ -2,7 +2,7 @@
 Is a trial to use the database through web interface 
 created using laravel.
 
-#**Project Structure**
+**Project Structure**
 /project-root  
 │── app/Http/Controllers/     # Controllers for handling requests  
 │── app/Models/               # Models representing database tables  
@@ -14,7 +14,7 @@ created using laravel.
 │── .env                      # Environment configuration  
 │── composer.json             # Dependencies  
 
-#**Technology Stack**
+**Technology Stack**
 
 Backend: PHP 8+, Laravel 10
 Frontend: Blade (HTML, CSS, Bootstrap), JavaScript
@@ -22,6 +22,6 @@ Database: MySQL
 Version Control: Git & GitHub
 Server: Apache or Nginx
 
-#**Run the Project**
+**Run the Project**
 
 php artisan serve
